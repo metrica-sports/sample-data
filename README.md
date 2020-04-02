@@ -1,4 +1,6 @@
 # Metrica Sports Sample Data
+
+## About the repo
 In this repository you can find sample tracking and event data that exemplify the Elite data package we offer. The idea of this data is twofold: 
 1. to allow potential clients to check out this data and get familiar with our formats and data quality. 
 2. to provide some sample data to play around with to the broader football analytics community! 
