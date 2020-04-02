@@ -11,6 +11,7 @@ In this repository you can find sample tracking and event data that exemplify th
 - You'll see the data goes from 0 to 1 on each axis. The coordiante (0,0) is the top left, (1,1) is the bottom right, and (0,0) is the kick off point. 
 - The dimensions of the field is hte same for both, 105x68 meters. 
 - For the events, in the `documentation` folder you can find a pdf file with the definition and explanation of all our events types and subtypes. 
+- Tracking and event data are synchronized.
 
 ## Legal stuff
 - Please be responsible with the use of this data
