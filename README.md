@@ -9,7 +9,7 @@ In this repository you can find sample tracking and event data that exemplify th
 - At the moment there are two games in our standard CSV format, in the coming days we will add the same data in the standar FIFA format. 
 - The data of these two games is anonymized, meaning there are no references to the names of players, teams or competitions.
 - You'll see the data goes from 0 to 1 on each axis. The coordiante (0,0) is the top left, (1,1) is the bottom right, and (0.5,0.5) is the kick off point. 
-- The dimensions of the field is hte same for both, 105x68 meters. 
+- The dimensions of the field are the same for both games: 105x68 meters. 
 - For the events, in the `documentation` folder you can find a pdf file with the definition and explanation of all our events types and subtypes. 
 - Tracking and event data are synchronized.
 
