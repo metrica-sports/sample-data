@@ -14,11 +14,11 @@ In this repository you can find sample tracking and event data that exemplify th
 - Tracking and event data are synchronized.
 
 ## Legal stuff
-- Please be responsible with the use of this data
-- If you use it for anything public, please aknowledge the source
+- Please be responsible with the use of this data.
+- If you use it for anything public, please aknowledge the source.
 
 ## Future plans
-- We will try to add data for more games in the future
-- We will try to add also scripts to get started analyzing this data
+- We will try to add data for more games in the future.
+- We will try to add also scripts to get started analyzing this data.
 
 
