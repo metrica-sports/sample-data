@@ -8,17 +8,17 @@ In this repository you can find sample tracking and event data that exemplify th
 ## About the data
 - At the moment there are two games in our standard CSV format, in the coming days we will add the same data in the standar FIFA format. 
 - The data of these two games is anonymized, meaning there are no references to the names of players, teams or competitions.
-- You'll see the data goes from 0 to 1 on each axis. The coordiante (0,0) is the top left, (1,1) is the bottom right, and (0,0) is the kick off point. 
-- The dimensions of the field is hte same for both, 105x68 meters. 
+- You'll see the data goes from 0 to 1 on each axis. The coordiante (0,0) is the top left, (1,1) is the bottom right, and (0.5,0.5) is the kick off point. 
+- The dimensions of the field are the same for both games: 105x68 meters. 
 - For the events, in the `documentation` folder you can find a pdf file with the definition and explanation of all our events types and subtypes. 
 - Tracking and event data are synchronized.
 
 ## Legal stuff
-- Please be responsible with the use of this data
-- If you use it for anything public, please aknowledge the source
+- Please be responsible with the use of this data.
+- If you use it for anything public, please aknowledge the source.
 
 ## Future plans
-- We will try to add data for more games in the future
-- We will try to add also scripts to get started analyzing this data
+- We will try to add data for more games in the future.
+- We will try to add (may be in another repo) scripts to get started analyzing this data.
 
 
