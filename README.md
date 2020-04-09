@@ -13,6 +13,9 @@ In this repository you can find sample tracking and event data that exemplify th
 - For the events, in the `documentation` folder you can find a pdf file with the definition and explanation of all our events types and subtypes. 
 - Tracking and event data are synchronized.
 
+## Getting started
+Laurie Sahw (https://twitter.com/EightyFivePoint) form the Sports Analytics lab of Harvard University has some great introductory python code to working with this data as part of the Friends of Tracking initiative. You can find it here: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking and watch his first lesson with this data here: https://youtu.be/8TrleFklEsE
+
 ## Legal stuff
 - Please be responsible with the use of this data.
 - If you use it for anything public, please aknowledge the source.
