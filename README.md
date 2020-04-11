@@ -14,7 +14,7 @@ In this repository you can find sample tracking and event data that exemplify th
 - Tracking and event data are synchronized.
 
 ## Getting started
-Laurie Sahw (https://twitter.com/EightyFivePoint) form the Sports Analytics lab of Harvard University has some great introductory python code to working with this data as part of the Friends of Tracking initiative. You can find it here: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking and watch his first lesson with this data here: https://youtu.be/8TrleFklEsE
+Laurie Shaw (https://twitter.com/EightyFivePoint) form the Sports Analytics Lab of Harvard University has some great introductory python code to working with this data as part of the Friends of Tracking initiative. You can find it here: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking and watch his first lesson with this data here: https://youtu.be/8TrleFklEsE
 
 ## Legal stuff
 - Please be responsible with the use of this data.
@@ -23,5 +23,6 @@ Laurie Sahw (https://twitter.com/EightyFivePoint) form the Sports Analytics lab 
 ## Future plans
 - We will try to add data for more games in the future.
 - We will try to add (may be in another repo) scripts to get started analyzing this data.
+- To stay up to date with news and additions, follow https://twitter.com/brunodagnino
 
 
