@@ -25,4 +25,8 @@ Laurie Shaw (https://twitter.com/EightyFivePoint) form the Sports Analytics Lab 
 - We will try to add (may be in another repo) scripts to get started analyzing this data.
 - To stay up to date with news and additions, follow https://twitter.com/brunodagnino
 
+## Other tracking data sources
+- 3 games from Hammarby by Signality as part of David Sumpter analytics course. Tracking and video (not synched), no events. https://uppsala.instructure.com/courses/28112/pages/4-player-movements-on-the-pitch
+- 9 games by Skillcorner as part of the Friends of Tracking initiative. Tracking from broadcast feed, no events, no videos. https://github.com/SkillCorner/opendata
+- 19 goals scored by Livepool FC in 2019 by Lastrowview / Ricardo Tavares. Tracking (players and ball), no events, no vides. https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row
 
