@@ -30,3 +30,7 @@ Laurie Shaw (https://twitter.com/EightyFivePoint) form the Sports Analytics Lab 
 - 9 games by Skillcorner as part of the Friends of Tracking initiative. Tracking from broadcast feed, no events, no videos. https://github.com/SkillCorner/opendata
 - 19 goals scored by Livepool FC in 2019 by Lastrowview / Ricardo Tavares. Tracking (players and ball), no events, no vides. https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row
 
+## Events data sources
+- Statsbomb open data: https://github.com/statsbomb/open-data
+- Wyscout event data: https://figshare.com/collections/Soccer_match_event_dataset/4415000
+
