@@ -12,6 +12,7 @@ In this repository you can find sample tracking and event data that exemplify th
 - The dimensions of the field are the same for both games: 105x68 meters. 
 - For the events, in the `documentation` folder you can find a pdf file with the definition and explanation of all our events types and subtypes. 
 - Tracking and event data are synchronized.
+- [UPDATE 2021-04-15] A new game has been added: Sample Game 3. This game is in the new format (EPTS FIFA format for the tracking and metadata and json for the events). We recommend using [kloppy](https://github.com/PySport/kloppy/) to read this data.
 
 ## Getting started
 Laurie Shaw (https://twitter.com/EightyFivePoint) form the Sports Analytics Lab of Harvard University has some great introductory python code to working with this data as part of the Friends of Tracking initiative. You can find it here: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking and watch his first lesson with this data here: https://youtu.be/8TrleFklEsE
